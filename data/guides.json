@@ -1,0 +1,255 @@
+[
+  {
+    "title": "Understanding Cough, Cold, and Fever: Prevention and Relief",
+    "description": "Coughs, colds, and fever are common but can be managed and prevented by following consistent hygiene habits and early home care strategies.",
+    "steps": [
+      "Wash your hands often, especially before meals and after using the bathroom.",
+      "Always sneeze or cough into a tissue or your bent elbow.",
+      "Avoid touching your face, eyes, nose, and mouth.",
+      "Disinfect surfaces in your home, especially those touched often like switches and handles.",
+      "Stay hydrated by drinking plenty of water, herbal teas, and broths.",
+      "Use a humidifier or inhale steam to relieve congestion.",
+      "Gargle with warm salt water to soothe a sore throat.",
+      "Rest as much as possible to aid your body in recovery.",
+      "Eat light, warm, easy-to-digest meals when unwell.",
+      "If high fever, chest pain or breathing trouble occurs, see a doctor immediately."
+    ],
+    "details": [
+      {
+        "category": "Home Care Tips",
+        "examples": "Steam inhalation, rest, fluids, and doctor-recommended medicines."
+      }
+    ],
+    "link": "https://www.cdc.gov/flu/symptoms/"
+  },
+  {
+    "title": "Digestive Health: From Constipation to Acidity",
+    "description": "Good digestion reduces illness risks and boosts well-being. Optimize your digestive health with these daily strategies.",
+    "steps": [
+      "Begin your day with a glass of lukewarm water, add lemon for digestion boost.",
+      "Include fiber-rich foods such as oats, brown rice, lentils, and green leafy vegetables.",
+      "Eat at regular meal times; avoid late-night snacking.",
+      "Thoroughly chew each bite for easy digestion.",
+      "Add natural probiotics: yogurt, kefir, pickles.",
+      "Limit oily, fried, and spicy food to reduce acidity.",
+      "Practice portion control, avoid overeating.",
+      "Walk 10-15 minutes after each major meal.",
+      "Manage stress with meditation; mind-gut connection is real.",
+      "If you experience chronic constipation, pain, or blood in stools, consult a gastroenterologist."
+    ],
+    "details": [
+      {
+        "category": "Natural Remedies",
+        "examples": "Warm lemon water, flaxseeds, regular mealtimes, and stress management."
+      }
+    ],
+    "link": "https://www.healthline.com/nutrition/ways-to-improve-digestion-naturally"
+  },
+  {
+    "title": "Mental Fitness: Mastering Stress, Anxiety, and Mood Swings",
+    "description": "A vibrant mind is built through habits. Tackle daily stress and mood issues with these useful steps.",
+    "steps": [
+      "Wake up and write three things you’re grateful for.",
+      "Start your day with 10 minutes of breathing exercises or meditation.",
+      "Take screen breaks and frequent short walks.",
+      "Try creative expressions: art, music, crafts.",
+      "Connect with family/friends daily, for sharing and support.",
+      "Limit doom-scrolling on devices; mute non-essential notifications.",
+      "Pursue a fulfilling hobby—reading, gardening, puzzles.",
+      "Journal your feelings and reflect before bed.",
+      "Prioritize restful sleep for mood stabilization.",
+      "Seek professional help if sadness or anxiety persists."
+    ],
+    "details": [
+      {
+        "category": "Self-Care Routines",
+        "examples": "Journaling, gratitude, rest, and positive connections."
+      }
+    ],
+    "link": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037"
+  },
+  {
+    "title": "Mastering Sleep: The Key to Recovery and Growth",
+    "description": "Quality sleep is the foundation for health and healing. These habits optimize restful, recharging sleep.",
+    "steps": [
+      "Go to bed and wake up at the same time every day.",
+      "Create a calming pre-sleep routine—bath, reading, soft music.",
+      "Avoid heavy meals, caffeine, and alcohol before bedtime.",
+      "Keep your bedroom dark, cool, and quiet.",
+      "Use your bed only for sleep—not screens or work.",
+      "Switch off all screens at least 1 hour before bed.",
+      "Do light stretches or deep breathing to relax.",
+      "Keep phones/devices away from your bedside.",
+      "Use blackout curtains or an eye mask to block light.",
+      "If you have frequent insomnia, consult a sleep specialist."
+    ],
+    "details": [
+      {
+        "category": "Sleep Hygiene",
+        "examples": "Consistent schedule, soothing rituals, and device-free zone."
+      }
+    ],
+    "link": "https://www.sleepfoundation.org/sleep-hygiene"
+  },
+  {
+    "title": "Drinking Water: Simple Ways to Stay Hydrated",
+    "description": "Hydration impacts every aspect of health. Practice these steps to stay optimally hydrated all day.",
+    "steps": [
+      "Start your day with a full glass of water.",
+      "Carry a reusable water bottle everywhere.",
+      "Drink water before each meal and snack.",
+      "Infuse water with fruit, mint, or herbs for flavor.",
+      "Set hourly alarms or use hydration apps.",
+      "Drink more water during hot weather or exercise.",
+      "Replace sugary sodas or drinks with water.",
+      "Eat water-rich foods like cucumber, watermelon, and oranges.",
+      "Check that your urine is light in color (a sign of good hydration).",
+      "If you feel thirsty, drink promptly—don't wait!"
+    ],
+    "details": [
+      {
+        "category": "Smart Tracking",
+        "examples": "Apps, bottle marks, and regular reminders."
+      }
+    ],
+    "link": "https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html"
+  },
+  {
+    "title": "Preventing Infections and Managing Outbreaks",
+    "description": "Simple, powerful steps reduce the spread of germs in homes and communities.",
+    "steps": [
+      "Wash hands regularly: especially after returning home/outdoor activity.",
+      "Use alcohol-based sanitizer if soap and water are unavailable.",
+      "Disinfect kitchen counters, doorknobs and mobile screens daily.",
+      "Avoid touching your face with unwashed hands.",
+      "Cover your mouth while sneezing/coughing and dispose of tissues safely.",
+      "Avoid crowds during outbreaks or if feeling sick.",
+      "Wear a mask in public if there's an epidemic or respiratory outbreak.",
+      "Get vaccinated as per doctor’s schedule; encourage others too.",
+      "Ventilate indoor spaces daily; let sunlight in.",
+      "Stay home when unwell to avoid spreading illness."
+    ],
+    "details": [
+      {
+        "category": "Safe Socialization",
+        "examples": "Avoid handshakes, prefer namaste or wave. Disinfect after gatherings."
+      }
+    ],
+    "link": "https://www.who.int/health-topics/infectious-diseases"
+  },
+  {
+    "title": "All About Exercise: For Every Age and Capability",
+    "description": "Physical activity can fit any lifestyle—use these 10 tactical steps for lifelong movement.",
+    "steps": [
+      "Do a 5-minute dynamic warm-up before every workout.",
+      "Choose enjoyable activities—dance, cycling, brisk walking, sport, yoga.",
+      "Aim for at least 30 minutes of moderate exercise 5 days/week.",
+      "Take stairs instead of lifts/elevators whenever possible.",
+      "Include bodyweight or resistance training twice weekly.",
+      "Practice stretching after workouts for flexibility.",
+      "Track your daily step count (try to reach 8,000–10,000 steps).",
+      "Exercise as a family—weekend games, walks, or bike rides.",
+      "Listen to your body: if tired or in pain, rest and recover.",
+      "Celebrate progress by rewarding yourself for fitness milestones."
+    ],
+    "details": [
+      {
+        "category": "Family Fitness",
+        "examples": "Plan hikes, park games, and group walks."
+      }
+    ],
+    "link": "https://www.cdc.gov/physicalactivity/basics/index.htm"
+  },
+  {
+    "title": "Yoga for Body, Mind, and Soul",
+    "description": "Yoga is suitable for all—these 10 steps make a perfect daily yoga routine for balance and flexibility.",
+    "steps": [
+      "Dedicate a quiet, comfortable corner for yoga practice.",
+      "Start with Sukhasana (easy pose) and 2 minutes of mindful breathing.",
+      "Do 5–10 rounds of Surya Namaskar (Sun Salutation).",
+      "Add standing stretches: Tadasana (Mountain Pose), Vrikshasana (Tree Pose).",
+      "Try forward bends and gentle twists like Paschimottanasana, Ardha Matsyendrasana.",
+      "Include a balancing asana: Vrikshasana or Garudasana.",
+      "Stretch with Bhujangasana (Cobra Pose) or Setu Bandhasana (Bridge Pose).",
+      "Practice 5 minutes of Pranayama (Anulom Vilom, Bhramari, Kapalbhati).",
+      "Finish with Savasana (Corpse Pose/relaxation) for deep rest.",
+      "Maintain regularity: even 20 minutes daily gives great results."
+    ],
+    "details": [
+      {
+        "category": "Yoga Routine",
+        "examples": "Breathing, Surya Namaskar, stretches, Pranayama, Savasana."
+      }
+    ],
+    "link": "https://www.yogajournal.com/poses/yoga-for-beginners/"
+  },
+  {
+    "title": "Healthy Eating and Nutrition: Immunity and Longevity",
+    "description": "Balanced nutrition is crucial for resilience and well-being—follow these steps for lifelong immunity.",
+    "steps": [
+      "Plan for a 'rainbow plate': use many colored fruits and vegetables daily.",
+      "Add local, seasonal produce for freshness and nutrients.",
+      "Include whole grains and a variety of pulses in every meal.",
+      "Use healthy oils (mustard/olive) and avoid deep frying.",
+      "Add a source of protein: dal, paneer, curd, egg, fish, or chicken.",
+      "Enjoy a small serving of nuts/seeds for healthy fats.",
+      "Limit packet foods, sugar, and excess salt.",
+      "Include probiotics like yogurt or homemade pickles for gut health.",
+      "Hydrate with water or buttermilk, not sugary drinks.",
+      "Control portion size—eat slowly and mindfully."
+    ],
+    "details": [
+      {
+        "category": "Meal Planning",
+        "examples": "Colorful plates, portion control, local produce, and gut health focus."
+      }
+    ],
+    "link": "https://www.eatright.org/food/nutrition"
+  },
+  {
+    "title": "Personal Hygiene and Clean Environments",
+    "description": "Hygiene habits protect health and self-confidence—follow these 10 points for a germ-free life.",
+    "steps": [
+      "Bathe daily and wash hair regularly.",
+      "Change undergarments and clothes every day.",
+      "Brush your teeth morning and night, and floss once daily.",
+      "Wash hands after every outside visit or before eating.",
+      "Trim nails weekly and clean underneath them.",
+      "Disinfect mobile phones, glasses, and keys regularly.",
+      "Wash bedsheets and towels at least once every week.",
+      "Keep your home uncluttered—especially kitchens and bathrooms.",
+      "Cover dustbins and dispose of trash daily.",
+      "Avoid sharing personal items like towels, combs, or razors."
+    ],
+    "details": [
+      {
+        "category": "Cleaning Habits",
+        "examples": "Regular bathing, nail cleaning, and home/environmental hygiene."
+      }
+    ],
+    "link": "https://www.cdc.gov/handwashing/why-handwashing.html"
+  },
+  {
+    "title": "Handling COVID-19 and Airborne Diseases",
+    "description": "Strengthen community safety and protect yourself with these 10 points during pandemics and outbreaks.",
+    "steps": [
+      "Wear a mask in crowded, indoor, or poorly ventilated spaces.",
+      "Maintain social distance (at least 6 feet) from those not in your household.",
+      "Wash hands or use sanitizer after touching any shared surface.",
+      "Disinfect surfaces—door handles, switches, mobiles—frequently.",
+      "Avoid touching face in public.",
+      "Get vaccinated and help others register for vaccination.",
+      "Self-isolate and inform contacts if you have symptoms or are positive.",
+      "Share only accurate, official health information.",
+      "Support neighbors with medicines/food if they are quarantined.",
+      "Ventilate closed spaces by opening windows and letting sun and air in daily."
+    ],
+    "details": [
+      {
+        "category": "Safety Essentials",
+        "examples": "Mask, distance, hand hygiene, ventilation, vaccination."
+      }
+    ],
+    "link": "https://www.mohfw.gov.in/covid19"
+  }
+]
